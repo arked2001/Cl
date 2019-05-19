@@ -1,1 +1,5 @@
-.flex {max-width: 100%}
+.flex 
+{
+  width: 100%; /* larghezza d'mmagine  */
+  height: auto; /* altezza de'immagine  */
+}
